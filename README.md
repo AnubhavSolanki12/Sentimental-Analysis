@@ -1,7 +1,6 @@
 # Sentimental-Analysis
 
-Navigate to the directory where project is located through Command Prompt
-Use this command
+Navigate to the directory where project is located through Command Prompt then use this command
 
 ```
 pip install -r requirements.txt
