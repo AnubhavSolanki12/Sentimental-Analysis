@@ -18,7 +18,7 @@ matplotlib==3.2.1
 mccabe==0.6.1
 mysql-connector-python==8.0.19
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 Pillow==7.1.2
 protobuf==3.6.1
