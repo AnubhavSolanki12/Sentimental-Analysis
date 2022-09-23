@@ -21,7 +21,7 @@ nltk==3.5
 numpy==1.18.4
 pandas==1.0.3
 Pillow==7.1.2
-protobuf==3.6.1
+protobuf==3.18.3
 pylint==2.4.4
 pymongo==3.10.1
 pyparsing==2.4.7
